@@ -62,7 +62,7 @@ ChatGPT有很丰富的太阳系知识，她可以带着我们游遍太阳系，�
 - [我在木星上遇到了巨大风暴，这种情况该如何自救？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/42)
 - [火星上适合制作什么美食？为了制作美食，我需要准备些什么？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/43)
   - [追问：火星上适合使用什么烹饪器具？制作美食的能源问题如何解决？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/43#issuecomment-1448061955)
-- [木卫三上有哪些著名的旅游景点？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/44)
+- [木卫三上有哪些著名的旅游景点？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/45)
 
 ## 贡献问题
 
