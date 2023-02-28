@@ -1,4 +1,4 @@
-# ChatGPT 带你玩转太阳系
+# ![logo.svg](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/30c48c8b77ea4873b2a97430451a0ad1~tplv-k3u1fbpfcp-watermark.image?) ChatGPT 带你玩转太阳系
 
 ChatGPT有很丰富的太阳系知识，她可以带着我们游遍太阳系，给我们有用的建议和帮助。如果你想去一些你从没去过的地方旅行，可以关注这个项目，让我们一起走遍太阳系，看看不同的风景。
 
