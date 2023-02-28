@@ -26,3 +26,8 @@ ChatGPT有很丰富的太阳系知识，她可以带着我们游遍太阳系，�
 - [土卫六上单人飞行翼为什么那么流行？入手一副飞行翼要多少钱，有好的牌子推荐吗？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/8)
 - [我现在要从地球出发经过火星中转到土卫六，最快的交通方式是什么，大概需要多长时间？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/9)
   - [追问：要2030年才出发太久了，先骑我的小电驴到月球上等可以吗？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/9)
+- [为什么太阳系贸易中转站要建在拉格朗日点上？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/10)
+- [你可以详细说一下太阳系经济体系的构成和发展历程吗？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/11)
+- [在太阳系旅行如何避免迷路？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/12)
+- [在太阳系旅行中顺路搭乘他人的飞船需要携带毛巾吗？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/13)
+- [太阳系旅行中有哪些需要避开的危险区域？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/14)
