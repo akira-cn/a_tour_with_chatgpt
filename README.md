@@ -36,3 +36,7 @@ ChatGPT有很丰富的太阳系知识，她可以带着我们游遍太阳系，�
 ## 贡献问题
 
 你可以在issue中发布问题和ChatGPT的答案，然后提交一个PR，更新README。
+
+## LICENSE
+
+No license.
