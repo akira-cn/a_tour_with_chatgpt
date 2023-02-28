@@ -41,6 +41,8 @@ ChatGPT有很丰富的太阳系知识，她可以带着我们游遍太阳系，�
 - [为什么在木卫三的冰原上行走需要穿防辐射服？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/22)
 - [天王星上的滑雪场速滑道上滑雪是一种怎样的体验？需要注意什么？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/23)
 - [从地球去火星，出发的月份应该是几月最好？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/24)
+- [在木卫三上潜水需要注意什么？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/25)
+- [为什么目前水星不接受个人游客？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/26)
 
 ## 贡献问题
 
