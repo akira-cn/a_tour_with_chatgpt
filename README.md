@@ -52,6 +52,8 @@ ChatGPT有很丰富的太阳系知识，她可以带着我们游遍太阳系，�
 - [我新买的宇宙飞船的智能碳酸饮料贩卖机出了故障，应该怎么处理？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/34)
 - [我想对我的私人飞船的主控室进行装修，主要有什么步骤，用什么环保材料比较合适？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/35)
   - [追问：我的设计师给主控室设计了双侧环形灯带，但是这个灯带会降低飞船在近地轨道飞行时侧弦窗的透光度，从而影响飞船两侧的视野，这是否会导致安全隐患，不符合飞船安全设计规范？有什么办法可以规避这个问题吗？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/35)
+- [我骑小电驴到月球，中途轮胎漏气了，停在拉格朗日点附近的维修基地维修，有什么具体的注意事项吗？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/36)
+  - [追问：你确定真的可以骑小电驴去月球吗？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/36)
 
 ## 贡献问题
 
