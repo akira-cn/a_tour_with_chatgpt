@@ -54,6 +54,8 @@ ChatGPT有很丰富的太阳系知识，她可以带着我们游遍太阳系，�
   - [追问：我的设计师给主控室设计了双侧环形灯带，但是这个灯带会降低飞船在近地轨道飞行时侧弦窗的透光度，从而影响飞船两侧的视野，这是否会导致安全隐患，不符合飞船安全设计规范？有什么办法可以规避这个问题吗？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/35)
 - [我骑小电驴到月球，中途轮胎漏气了，停在拉格朗日点附近的维修基地维修，有什么具体的注意事项吗？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/36)
   - [追问：你确定真的可以骑小电驴去月球吗？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/36)
+- [木卫三上有哪些著名的旅游景点？ ](https://github.com/akira-cn/a_tour_with_chatgpt/issues/37)
+  - [追问：木卫三全价门票多少钱？一年中哪个季节去合适？]((https://github.com/akira-cn/a_tour_with_chatgpt/issues/37)
 
 ## 贡献问题
 
