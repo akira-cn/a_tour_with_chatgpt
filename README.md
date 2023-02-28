@@ -56,6 +56,8 @@ ChatGPT有很丰富的太阳系知识，她可以带着我们游遍太阳系，�
   - [追问：你确定真的可以骑小电驴去月球吗？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/36)
 - [木卫三上有哪些著名的旅游景点？ ](https://github.com/akira-cn/a_tour_with_chatgpt/issues/38)
   - [追问：木卫三全价门票多少钱？一年中哪个季节去合适？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/38)
+- [土卫二上有哪些著名的旅游景点？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/39)
+- [土卫六上有哪些著名的旅游景点？](https://github.com/akira-cn/a_tour_with_chatgpt/issues/40)
 
 ## 贡献问题
 
